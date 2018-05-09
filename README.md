@@ -19,7 +19,6 @@ Explored questions below.
 ■ How to define conversion rate in this case?          
 ■ Will the reference source have influence on conversion?  
 ■ Performed funnel analysis for the signup flow and found the cell-phone verification step to be the bottleneck due to unclear format requirements.        
-■ 
 
 Part three: sensor_featureEngineer.ipynb      
 ■ Created and engineered features for conversion predictions.     
